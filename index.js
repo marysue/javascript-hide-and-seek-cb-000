@@ -15,7 +15,7 @@ function nestedTarget() {
 function increaseRankBy(n) {
   //increases theranks in all of the .ranked-list s by n
   //use parseInt()
-  
+
 }
 
 function deepestChild() {
@@ -23,6 +23,5 @@ function deepestChild() {
   //does not need to be totally generic
   //i.e. : assume there are no sibling nodes
   // recall breadth-first search here
-  
-}
 
+}
